@@ -7,3 +7,6 @@ resnet50迁移学习训练自己的垃圾分类数据集<br>
 模型训练：GPU 英伟达2070max-Q 8G<br>
 代码：上传github：https://github.com/qq1308636759/resnet50-<br>
 数据集和模型文件太大，上传不了github，数据集可以自己找找。<br>
+其中，resnet.py是模型训练文件<br>
+UI.py是界面文件<br>
+main.py是把代码集合成的函数方便界面调用的主文件。<br>
